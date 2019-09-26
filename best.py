@@ -3,7 +3,7 @@ def main():
     person_a = "Sahil Gupta"
     superlative_a = "best"
 
-    person_b = "Sanjeev Gupta"
+    person_b = "What the fuck Sanjeev Gupta"
     superlative_b = "worst"
 
     name = "Hilfinger"
