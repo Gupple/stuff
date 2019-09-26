@@ -1,9 +1,9 @@
 
 def main():
-    person_a = "Person A"
+    person_a = "Sahil Gupta"
     superlative_a = "best"
 
-    person_b = "Person B"
+    person_b = "Sanjeev Gupta"
     superlative_b = "worst"
 
     name = "Hilfinger"
